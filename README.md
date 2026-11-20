@@ -1,6 +1,6 @@
 # Lab Activity 3
 
-For my water shader I tried to create something similar to the Wind Waker water shader. The shader includes vertex movement, lerping two different colours and a smoothness node.
+For my water shader I tried to create something similar to the Wind Waker water shader. The shader includes vertex movement, lerping two different colours and a smoothness node. I also made a quick texture in paint that I could use. I had some problems with the caustic texture having black lines on the water so I decided to use a one minus node to flip the black lines to white.
 
 <img width="1119" height="640" alt="image" src="https://github.com/user-attachments/assets/f9527af0-8489-4947-808c-c1124551b518" />
 
